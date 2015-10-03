@@ -123,7 +123,11 @@ margin-left: 70%;
 
 #slide1 { background:url(images/window.jpeg) center 0 no-repeat fixed; background-size: cover; }
 #slide2 { background: url(images/fondbleu.jpeg) center 0 no-repeat fixed; background-size: cover; }
+<<<<<<< HEAD
 #slide3 { background: url(images/mac.png) center 0 no-repeat fixed; background-size: cover; }
+=======
+#slide3 { background: url(images/apple.jpeg) center 0 no-repeat fixed; background-size: cover; }
+>>>>>>> 8a7d2d6f8d5ecdf41b16e1f954bc010871630e34
 #slide4 { background: url(images/fond1.jpeg) center 0 no-repeat fixed; background-size: cover; }
 
 
