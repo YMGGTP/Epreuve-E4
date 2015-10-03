@@ -1,0 +1,31 @@
+/* détermine le bas de la page slide 3*/
+.div{
+
+	margin-top: 500px;
+}
+
+.image{
+
+	width: 100%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.planning
+{
+margin-top:10%;
+margin-bottom:5%;
+margin-left: 10%;
+font-size: 25px;
+width: 80%;
+}
+
+.titre{
+
+	text-align: left;
+	color: #eca603;
+}
+p{
+
+	font-size: 18px;
+}
