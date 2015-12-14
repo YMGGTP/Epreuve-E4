@@ -1,0 +1,21 @@
+{% extends "PgGsbFraisBundle::accueil.html.twig" %}
+{% block body %}
+{% block bloc1 %}
+<div id="contenu">
+<h2>Les Véhicules</h2>
+
+	         {% for uneL in ListeVehiculesVisiteurs%}
+	         <li>{{ uneL.nom}}</li>
+            
+             <li>{{ uneL.immat}}</li>
+             <li>{{ uneL.marque}}</li>
+             <li>{{ uneL.modele}}</li>
+             <li>{{ uneL.couleur}}</li>
+             <li></li>
+             {%endfor%}
+			
+
+</div>
+
+{% endblock %}
+{% endblock %}
